@@ -686,7 +686,6 @@
         });
 
         captchaContainer.addEventListener("blur", () => {
-            logDebugMessage("CAPTCHA widget unfocused");
             va("event", { name: "game_pause" });
             Module.pauseMainLoop();
         });
@@ -800,7 +799,6 @@
                     .classList.remove("visible");
             },
             onPlayerDeath: function () {
-                logDebugMessage("Player died");
                 va("event", { name: "player_death", data: { kills: enemiesKilled } });
                 enemiesKilled = 0;
                 updateVerifyButton();
