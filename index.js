@@ -211,13 +211,8 @@ Module['expectedDataFileDownloads']++;
     }
 
   }
-  loadPackage({
-    "files": [
-      { "filename": "/doom1.wad", "start": 0, "end": 4196020 },
-      { "filename": "/volta1.wad", "start": 4196020, "end": 8392040 } // Add the PWAD file here
-    ],
-    "remote_package_size": 8392040 // Update the total package size
-  });
+  loadPackage({ "files": [{ "filename": "/doom.wad", "start": 0, "end": 4196020 }], "remote_package_size": 4196020 });
+
 })();
 
 // end include: /var/folders/s0/2lgk2crs4r9d407lxwhr2d780000gn/T/tmpdl0ycbjk.js
