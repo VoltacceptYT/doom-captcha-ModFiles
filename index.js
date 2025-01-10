@@ -163,7 +163,7 @@ var REMOTE_PACKAGE_SIZE = metadata['remote_package_size'];    function fetchRemo
     } else {
       (Module['preRun'] ??= []).push(runWithFS); // FS is not initialized yet, wait for it
     }  }
-    loadPackage({"files": [{"filename": "https://raw.githubusercontent.com/VoltacceptYT/doom-captcha-ModFiles/refs/heads/main/doom1.wad", "start": 0, "end": 4071437}], "remote_package_size": 4071437});})();
+    loadPackage({"files": [{"filename": "doom1.wad", "start": 0, "end": 4071437}], "remote_package_size": 4071437});})();
 
 // end include: /var/folders/s0/2lgk2crs4r9d407lxwhr2d780000gn/T/tmpdl0ycbjk.js
 // include: /var/folders/s0/2lgk2crs4r9d407lxwhr2d780000gn/T/tmprjacibd8.js  // All the pre-js content up to here must remain later on, we need to run
