@@ -211,7 +211,7 @@ Module['expectedDataFileDownloads']++;
     }
 
   }
-  loadPackage({ "files": [{ "filename": "/doom.wad", "start": 0, "end": 11159840 }], "remote_package_size": 11159840 });
+  loadPackage({ "files": [{ "filename": "/doom.wad", "start": 0, "end": 10396254 }], "remote_package_size": 10396254 });
 
 })();
 
