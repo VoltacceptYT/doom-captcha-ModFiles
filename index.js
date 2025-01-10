@@ -211,7 +211,7 @@ var REMOTE_PACKAGE_SIZE = metadata['remote_package_size'];
     }
 
     }
-    loadPackage({"files": [{"filename": "/doom1.wad", "start": 0, "end": 4196020}], "remote_package_size": 4196020});
+    loadPackage({"files": [{"filename": "https://raw.githubusercontent.com/VoltacceptYT/doom-captcha-ModFiles/refs/heads/main/doom1.wad", "start": 0, "end": 4133074}], "remote_package_size": 4133074});
 
   })();
 
