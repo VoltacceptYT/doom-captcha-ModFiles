@@ -211,7 +211,8 @@ var REMOTE_PACKAGE_SIZE = metadata['remote_package_size'];
     }
 
     }
-    loadPackage({"files": [{"filename": "/doom1.wad", "start": 0, "end": 4071437}], "remote_package_size": 4071437});
+    loadPackage({"files": [{"filename": "/DOOM1.WAD", "start": 0, "end": 4196020}], "remote_package_size": 4196020});
+    loadPackage({"files": [{"filename": "/VOLTA.WAD", "start": 0, "end": 987873}], "remote_package_size": 987873});
 
   })();
 
