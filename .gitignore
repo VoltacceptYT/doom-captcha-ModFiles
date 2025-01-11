@@ -1,3 +1,4 @@
+*.bak
 wad2bytes.cmd
 wad2data.cmd
 .old/
