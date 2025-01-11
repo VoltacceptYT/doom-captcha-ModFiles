@@ -1,9 +1,9 @@
 *.bak
 *.index.wad
-wad2bytes.cmd
-wad2data.cmd
-dir2wad.cmd
+*.cmd
+*.py
 .old/
 .tools/
+.wad-gen/
 .doom-zip/
 .modified-doom/
