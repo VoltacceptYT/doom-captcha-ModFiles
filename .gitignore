@@ -1,5 +1,8 @@
 *.bak
 wad2bytes.cmd
 wad2data.cmd
+dir2wad.cmd
 .old/
+.tools/
 .doom-zip/
+.modified-doom/
