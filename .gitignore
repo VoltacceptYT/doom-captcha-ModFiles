@@ -1,4 +1,4 @@
-WAD Size.bat
-wad2data.bat
+wad2bytes.cmd
+wad2data.cmd
 .old/
 .doom-zip/
