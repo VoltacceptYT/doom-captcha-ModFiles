@@ -1,4 +1,5 @@
 *.bak
+*.index.wad
 wad2bytes.cmd
 wad2data.cmd
 dir2wad.cmd
