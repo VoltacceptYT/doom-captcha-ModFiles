@@ -211,7 +211,7 @@ Module['expectedDataFileDownloads']++;
     }
 
   }
-  loadPackage({ "files": [{ "filename": "/doom.wad", "start": 0, "end": 11159840 }, { "filename": "/devmapsE1M1.wad", "start": 11159840, "end": 11179566 }], "remote_package_size": 11179566 });
+  loadPackage({ "files": [{ "filename": "/doom.wad", "start": 0, "end": 11159840 }, { "filename": "/devmapsE1M1.wad", "start": 11159840, "end": 11179550 }], "remote_package_size": 11179550 });
 
 })();
 
